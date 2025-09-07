@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-07T17:59:04 IST" name="Default suite" finished-at="2025-09-07T17:59:04 IST" duration-ms="146">
+    <groups>
+    </groups>
+    <test started-at="2025-09-07T17:59:04 IST" name="Default test" finished-at="2025-09-07T17:59:04 IST" duration-ms="146">
+      <class name="com.automation.day1.TesterDemo">
+        <test-method signature="SIgnIn()[pri:0, instance:com.automation.day1.TesterDemo@78b66d36]" started-at="2025-09-07T17:59:04 IST" name="SIgnIn" finished-at="2025-09-07T17:59:04 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SIgnIn -->
+        <test-method signature="SignIn()[pri:0, instance:com.automation.day1.TesterDemo@78b66d36]" started-at="2025-09-07T17:59:04 IST" name="SignIn" finished-at="2025-09-07T17:59:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+      </class> <!-- com.automation.day1.TesterDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
