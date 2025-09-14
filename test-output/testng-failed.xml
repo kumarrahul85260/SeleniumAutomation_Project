@@ -10,6 +10,13 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.test.day2.LoginTest -->
+      <class name="com.test.day3.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="getTitle"/>
+        </methods>
+      </class> <!-- com.test.day3.LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
