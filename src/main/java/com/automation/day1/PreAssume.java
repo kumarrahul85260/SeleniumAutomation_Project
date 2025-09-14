@@ -1,9 +1,17 @@
 package com.automation.day1;
 
-import org.testng.reporters.jq.Main;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
 
 public class PreAssume {
-public static void main(String[] args) {
+
+	@Test
+	public static void test3() {
+		System.out.println("heyy abhayawaaa");
+	}
 	
-}
+	@DataProvider
+	public static void getData() {
+		System.out.println("heyy getData");
+	}
 }
