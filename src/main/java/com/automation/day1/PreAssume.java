@@ -1,5 +1,9 @@
 package com.automation.day1;
 
-public class PreAssume {
+import org.testng.reporters.jq.Main;
 
+public class PreAssume {
+public static void main(String[] args) {
+	
+}
 }
