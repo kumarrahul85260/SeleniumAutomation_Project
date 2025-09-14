@@ -17,7 +17,17 @@ public class LoginTest {
 		Assert.assertEquals(true,false);
 				
 		}
+	@Test
+	public void getPage() {
+		Assert.assertEquals(true,false);
+				
+		}
 	
+	@Test
+	public void getUrl() {
+		Assert.assertEquals(true,false);
+				
+		}
 	@AfterMethod
 	public void tearDown() {
 		System.out.println("closing the browwser");
